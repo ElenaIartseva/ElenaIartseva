@@ -25,6 +25,6 @@
 
 <img src="/images/resume.svg" width="40" height="40"> [portfolio](https://elenaiartseva.github.io/my-portfolio/)
 
-<img src="/images/email.svg" width="40" height="40"> elena.iartseva@gmail.com
+<img src="/images/email.svg" width="40" height="40"> elena.iartseva64@gmail.com
 
 <img src="/images/telegram.svg" width="40" height="40"> [@elena_6464](https://t.me/elena_6464)
