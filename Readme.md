@@ -17,9 +17,9 @@
 
 <h2 align="center">📈 My statistic</h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenaUstimenko&theme=city_lights)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenaIartseva&theme=city_lights)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenaUstimenko&theme=city_lights) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenaUstimenko&theme=city_lights)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenaIartseva&theme=city_lights) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenaIartseva&theme=city_lights)
 
 <h2 align="center">📫 Reach me on</h2>
 
