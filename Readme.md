@@ -4,7 +4,6 @@
 
 <p>✔️ I’m a web-developer who likes to learn something new to constantly improve my skills</p>
 <p>✔️ Speak Russian and English, and I’m learning Korean</p>
-<p>✔️ Work for a game dev company</p>
 <p>✔️ My second degree in financial analysis</p>
 
 <h2 align="center">🎓 My Tools</h2>
